@@ -1,6 +1,8 @@
 #define pragma once
 
-int addieren(int, int);
-int subtrahieren(int, int);
-int multiplizieren(int, int);
-int dividieren(int, int);
+void addieren(int, int);
+void subtrahieren(int, int);
+void multiplizieren(int, int);
+void dividieren(int, int);
+void modulo(int, int);
+bool abfrage();
